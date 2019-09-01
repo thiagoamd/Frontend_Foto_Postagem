@@ -1,9 +1,9 @@
 # Sistema de postagem de foto utilizando React
 Sistema parecido com Instagram, com as características abaixa:
--Possibilidade de realizar o upload das fotos.
--Com hastags para indexar as fotos
--Possibilidade de curtir as fotos.
--Atualização em tempo real das curtidas das fotos
+##Possibilidade de realizar o upload das fotos.
+##Com hastags para indexar as fotos
+##Possibilidade de curtir as fotos.
+##Atualização em tempo real das curtidas das fotos
 
 Tecnologias Utilizadas:
 -Reactjs
